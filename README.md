@@ -1,0 +1,2 @@
+# passang
+Termux
